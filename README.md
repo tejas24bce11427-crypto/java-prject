@@ -2,13 +2,13 @@
 
 # **README.md**
 
-## 🎓 **Student Performance Analytics System**
+## **Student Performance Analytics System**
 
 A Java Swing-based desktop application that helps manage students, record marks, generate reports, and visualize academic analytics. This project provides an easy-to-use interface for schools, teachers, and institutions to maintain student performance data in one place.
 
 ---
 
-## 📌 **Project Description**
+##  **Project Description**
 
 The **Student Performance Analytics System** is a GUI-based software built using **Java Swing**.
 It allows users to:
@@ -24,7 +24,7 @@ This project is ideal for **academic submissions, student record management syst
 
 ---
 
-## ⭐ **Features**
+##  **Features**
 
 ### 🔹 **1. Student Management**
 
@@ -70,7 +70,7 @@ This project is ideal for **academic submissions, student record management syst
 
 ---
 
-## ▶️ **How to Run the Project**
+##  **How to Run the Project**
 
 ### **1. Prerequisites**
 
@@ -133,7 +133,7 @@ To include them in the README:
 
 ---
 
-## 📁 **Project Structure**
+##  **Project Structure**
 
 ```
 StudentAnalyticsSystem/
@@ -149,7 +149,7 @@ StudentAnalyticsSystem/
 
 ---
 
-## ℹ️ **Additional Information**
+##  **Additional Information**
 
 * The application automatically saves data using serialization.
 * Marks are validated to avoid incorrect or impossible entries.
