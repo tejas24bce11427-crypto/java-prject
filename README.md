@@ -59,7 +59,7 @@ This project is ideal for **academic submissions, student record management syst
 
 ---
 
-## 🛠 **Tech Stack**
+##  **Tech Stack**
 
 | Technology                | Purpose                    |
 | ------------------------- | -------------------------- |
